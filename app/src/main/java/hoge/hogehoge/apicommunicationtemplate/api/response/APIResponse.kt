@@ -1,0 +1,3 @@
+package hoge.hogehoge.apicommunicationtemplate.api.response
+
+interface APIResponse
