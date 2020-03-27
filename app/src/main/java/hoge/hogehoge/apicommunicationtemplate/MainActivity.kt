@@ -1,4 +1,4 @@
-package hoge.hogehoge.qiitasampleapp
+package hoge.hogehoge.apicommunicationtemplate
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
